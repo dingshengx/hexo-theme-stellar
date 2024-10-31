@@ -311,18 +311,21 @@ comments:
 ######## Footer ########
 footer:
   social:
-    # github:
-    #   icon: '<img src="https://www.jsdelivr.com/assets/60b1cb1cb30abc7a009f5e0c7b84de408fd5a00b/img/icons/github.disabled.svg"/>'
-    #   url: /
+    github:
+      icon: '<img src="https://img.jsdelivr.com/github.com/github.png"/>'
+      url: /
+    twitter:
+      icon: '<img src="https://img.jsdelivr.com/github.com/twitter.png"/>'
+      url: /
     telegram:
       icon: '<img src="https://img.jsdelivr.com/github.com/TelegramV.png"/>'
       url: /
     # music:
     #   icon: '<img src="https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/social/3845874.svg"/>'
     #   url: /
-    # unsplash:
-    #   icon: '<img src="https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/social/3616429.svg"/>'
-    #   url: /
+    unsplash:
+      icon: '<img src="https://img.jsdelivr.com/github.com/unsplash.png"/>'
+      url: /
     # comments:
     #   icon: '<img src="https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.12/social/942ebbf1a4b91.svg"/>'
     #   url: /about/#comments
